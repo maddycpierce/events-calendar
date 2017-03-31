@@ -3,10 +3,6 @@ html {
   color: #333;
 }
 
-td {
-  text-align: right;
-}
-
 th, td {
   border: 1px solid #ccc;
 }
@@ -37,7 +33,6 @@ th, td {
 .list-group {
   border-radius: 8px;
   border: 1em;
-  text-align: left;
 }
 
 .box {
