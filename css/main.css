@@ -1,3 +1,45 @@
 html {
   font-family: Merriweather, serif;
+  color: #333;
+}
+
+td {
+  text-align: right;
+}
+
+th, td {
+  border: 1px solid #ccc;
+}
+
+.grey {
+  background-color: #f2f2f2;
+  border-color: #666;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  color: #51603f;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  color: #991919;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+}
+
+.list-group {
+  border-radius: 8px;
+  border: 1em;
+  text-align: left;
+}
+
+.box {
+  height: 8.5em;
 }
